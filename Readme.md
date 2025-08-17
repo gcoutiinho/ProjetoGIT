@@ -1,1 +1,1 @@
-TEsteeeeEsse projeto é para eu aprender a usar o GIT e o GITHUB juntos
+Esse projeto é para eu aprender a usar o GIT e o GITHUB juntos
